@@ -1,5 +1,5 @@
 title = "Jokey's Blog Site"
-baseURL = "https://jokey.li"
+baseURL = "https://imjokey.github.io/jokey.li"
 publishDir = "docs"
 languageCode = "en-us"
 theme = "ananke"
