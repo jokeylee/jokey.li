@@ -1,5 +1,6 @@
 title = "Jokey's Blog Site"
 baseURL = "https://jokey.li"
+publishDir = "docs"
 languageCode = "en-us"
 theme = "ananke"
 
